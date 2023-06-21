@@ -2,7 +2,7 @@
 
 A very simple Authorisation Server created using the spring-authorisation-server project
 
-See http://lydtech.dev/blogs/todo for the accompanying article
+See https://www.lydtechconsulting.com/blog-oauth-oidc-part4.html for the accompanying article
 
 
 ## Running
